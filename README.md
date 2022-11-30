@@ -24,3 +24,10 @@ Because this application is not be deployed, there is a walk-through video that 
 
 ---
 
+https://drive.google.com/file/d/1LS1RiIYgwsXlrC-lm4-PEbMq1oLqzgTh/view
+
+## Snapshot
+
+--- 
+
+![social-network-example](https://user-images.githubusercontent.com/108437661/204877482-c65d52f9-4e9f-407c-9d68-82b075b15a67.png)
